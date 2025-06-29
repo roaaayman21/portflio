@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roaaayman21.github.io/portflio/assets/sitemap.xml
